@@ -2,8 +2,6 @@
 Exploratory Data Analysis of Heart Disease Risk using Python, Pandas, NumPy, Matplotlib and Seaborn. Includes data understanding, preprocessing, statistical analysis, visualizations and key health-related insights.
 
 
-# Heart Disease Risk EDA
-
 ## Exploratory Data Analysis of Heart Disease Risk
 
 This project performs **Exploratory Data Analysis (EDA)** on a Heart Disease Risk dataset containing **9,000 patient records and 26 variables**.
